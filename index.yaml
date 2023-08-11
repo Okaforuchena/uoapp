@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  uoapp:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2023-08-11T14:03:59.582811219-05:00"
+    description: A Helm chart for Kubernetes
+    digest: ec7a3e0f2e5e556add1e4a09fa62fcc5c70e600549b18d56b4c142736311dc20
+    name: uoapp
+    type: application
+    urls:
+    - uoapp-1.1.0.tgz
+    version: 1.1.0
+generated: "2023-08-11T14:03:59.57518678-05:00"
